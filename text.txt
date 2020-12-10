@@ -1,9 +1,1 @@
 Hello this is a text file.
-This is an addition to that text text file.
-Another addition.
-
-Commit 3 during squash activity
-
-Commit 4 during squash activity
-
-Commit 5 during squash activity
