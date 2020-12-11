@@ -22,8 +22,10 @@ add line nine
 
 add line ten
 
+<<<<<<< HEAD
+add line eleven dev 2
+=======
 add line eleven
 
-add line twelve
-
-add line thirteen
+add line dev one line
+>>>>>>> bug fix
